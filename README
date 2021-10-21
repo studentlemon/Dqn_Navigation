@@ -5,9 +5,11 @@ Environment:
 pytorch--
 python 3.7
 
-<img src="https://github.com/studentlemon/Dqn_Navigation/blob/master/scenario.png" height="400"/>
+Scenario
+![image](https://github.com/studentlemon/Dqn_Navigation/blob/master/scenario.png)
 
-<img src="https://github.com/studentlemon/Dqn_Navigation/blob/master/myplot.png" height="400"/>
+Average Reward
+![image](https://github.com/studentlemon/Dqn_Navigation/blob/master/myplot.png)
 
 
 
