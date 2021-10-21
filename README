@@ -1,5 +1,5 @@
 # Optimal Path Planning: Deep Reinforcement Learning
-This is a repo for robot nagivation adopting Dqn
+This is a repo for robot nagivation adopting Dqn inspired by Astar that uses 8-connections
 
 Environment:
 pytorch--
