@@ -1,0 +1,13 @@
+# Optimal Path Planning: Deep Reinforcement Learning
+This is a repo for robot nagivation adopting Dqn
+
+Environment:
+pytorch--
+python 3.7
+
+<img src="https://github.com/studentlemon/Dqn-Navigation/scenario.png" height="400"/>
+
+<img src="https://github.com/studentlemon/Dqn-Navigation/myplot.png" height="400"/>
+
+
+
